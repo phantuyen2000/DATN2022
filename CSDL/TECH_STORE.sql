@@ -94,3 +94,16 @@ create table Promotion
 	CreatedAt datetime not null,
 	ExpireAt datetime not null
 )
+
+
+
+select * from Category
+select * from Producer
+select * from Account
+select * from Product
+select * from EndUser
+select * from AppUser
+select * from Cart
+select * from ShopHistory
+select * from ReceiveHistory
+select * from Promotion
